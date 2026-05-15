@@ -19,6 +19,7 @@ const Navbar = ({ setShowLogin }) => {
     <div className="navbar">
       <Link to="/">
         <img className="logo" src={assets.logo_icon} alt="" />
+        <img className="craveit_logo" src={assets.CraveIt_icon} alt="" />
       </Link>
 
       <ul className="navbar-menu">

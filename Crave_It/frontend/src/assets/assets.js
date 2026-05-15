@@ -62,11 +62,13 @@ import parcel_icon from "./parcel_icon.png";
 import checked from "./checked.png";
 import un_checked from "./un_checked.png";
 import logo_icon from "./logo_icon.png"
+import CraveIt_icon from "./CraveIt_icon.png"
 
 
 export const assets = {
   // logo_text,
   logo_icon,
+  CraveIt_icon,
   basket_icon,
   header_img,
   search_icon,
