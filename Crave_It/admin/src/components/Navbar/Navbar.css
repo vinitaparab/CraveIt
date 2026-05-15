@@ -8,6 +8,9 @@
     width: 100px;
     filter: brightness(0) saturate(100%) invert(50%) sepia(100%) saturate(500%) hue-rotate(-20deg) brightness(100%) contrast(100%);
 }
-.navbar .profile{
-    width: 40px;
+.navbar .craveit_logo {
+  width: 120px;
+  background: white; /* keep white background */
+  object-fit: contain;
+  filter: none; /* remove the orange filter */
 }
